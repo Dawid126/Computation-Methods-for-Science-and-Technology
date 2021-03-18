@@ -1,0 +1,9 @@
+Iterated
+   0.429203673205682
+
+Tiled
+   0.429203685198014
+
+Wyniki różnią się na 8 miejscu po przecinku.
+
+Dla metody trapezów najleszy wynik mamy dla gęstości siatki ok. 905, co widać na wykresie.
